@@ -73,31 +73,7 @@ else
       alert("You guessed it! \nThe word was: " + word + " \nThat took you " + tryCount + " tries" );
     }
 
-/*switch (words.indexOf(chosenword)){
 
-  case 0:
-
-   introImage.remove();
- document.getElementById("prize").src="https://i.pinimg.com/564x/77/ce/76/77ce769c0ce57d1e8e86c047c529aa08.jpg";
-
-    
-  break;
-  case 1:
-
-    document.getElementById("prize").src="https://i.pinimg.com/564x/77/ce/76/77ce769c0ce57d1e8e86c047c529aa08.jpg";
-
-
-    break;
-    default:
-    alert(words.indezOf(chosenword)
-
-      break:
-    )
-    
-
-
-    }
-    */
     
 
 
